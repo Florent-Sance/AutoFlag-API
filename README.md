@@ -1,0 +1,1 @@
+# AutoFlag API, The only API that automatically serves you a flag!
