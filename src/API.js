@@ -4,4 +4,4 @@
 document.getElementById('redir').innerText = 'Redirecting you to your flag shortly'
 setTimeout(()=>{
     window.location.replace("/flag");
-},2000)
+},10000)
