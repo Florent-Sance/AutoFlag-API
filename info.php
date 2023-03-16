@@ -1,5 +1,5 @@
 <?php
 
-echo $_SERVER['SERVER_NAME'] 
+echo $_GET['index.php'] 
 
 ?>
